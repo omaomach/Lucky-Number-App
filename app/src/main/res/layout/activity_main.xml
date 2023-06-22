@@ -28,6 +28,7 @@
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textColorHint="#808080"
+        android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
